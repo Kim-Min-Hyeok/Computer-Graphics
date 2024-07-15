@@ -14,7 +14,7 @@ This repository contains the term project for the Computer Graphics course. The 
 ## Introduction
 Pikachu Volleyball 3D is a project developed as part of the Computer Graphics course. The aim of this project was to create a fun and engaging 3D volleyball game featuring Pikachu as the main character. The game showcases various computer graphics techniques learned throughout the course.
 
-![Screenshot]([images/screenshot.png](https://github.com/Kim-Min-Hyeok/Computer-Graphics/blob/main/Screenshots/Intro_screenshot.png))
+![Screenshot]((https://github.com/Kim-Min-Hyeok/Computer-Graphics/blob/main/Screenshots/Intro_screenshot.png))
 
 ## Features
 - **3D Models**: Pikachu and other objects in the game are represented using GLTF models.
