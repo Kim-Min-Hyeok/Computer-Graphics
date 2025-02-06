@@ -8,11 +8,11 @@ This repository contains the term project for the Computer Graphics course. The 
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Introduction
 Pikachu Volleyball 3D is a project developed as part of the Computer Graphics course. The aim of this project was to create a fun and engaging 3D volleyball game featuring Pikachu as the main character. The game showcases various computer graphics techniques learned throughout the course.
+
+![Screenshot](https://github.com/Kim-Min-Hyeok/Computer-Graphics/blob/main/Screenshots/Intro_screenshot.png)
 
 ## Features
 - **3D Models**: Pikachu and other objects in the game are represented using GLTF models.
@@ -41,7 +41,10 @@ To run the project locally, follow these steps:
     cd Computer-Graphics/WebGL/term_project
     ```
 
-3. Open the `index.html` file in your preferred web browser.
+3. Run project
+   ```bash
+   npm run dev
+   ```
 
 ## Usage
 Once the project is set up and running, you can start playing the game. Use the following controls:
@@ -49,11 +52,3 @@ Once the project is set up and running, you can start playing the game. Use the 
 - **Move**: 1P(RDFG), 2P(Arrow keys)
 - **Jump**: 1P(Z), 2P(,)
 - **Reset/Start**: Shift/Enter
-
-The objective of the game is to score points by making the volleyball land on the opponent's side of the net.
-
-## Credits
-This project was developed by Min-Hyeok Kim as part of the Computer Graphics course. Special thanks to the course instructors and teaching assistants for their guidance and support.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
